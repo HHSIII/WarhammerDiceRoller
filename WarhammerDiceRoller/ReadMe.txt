@@ -1,0 +1,1 @@
+Just move and use the exe shortcut wherever you want to run this from.
